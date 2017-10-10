@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1641185552501360}
+  m_IsPrefabParent: 1
+--- !u!1 &1641185552501360
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4628485623077026}
+  - component: {fileID: 114172829660667422}
+  m_Layer: 0
+  m_Name: mouseManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4628485623077026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1641185552501360}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.021149, y: 5.5835876, z: 10.6875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114172829660667422
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1641185552501360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6e3f93ddb49bc408f1e25a33f6dda3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TextPanel: {fileID: 1702703239789864, guid: 63d1394f235208547af72e88e2104d23, type: 2}
+  Quickpanel: {fileID: 1025030081412612, guid: f4809e1c6b5f8fc48bc5b64b2182a17c, type: 2}
+  noBranchQuickpanel: {fileID: 1677049687400146, guid: 396d2581ecb5e1b438d76159e5a46383,
+    type: 2}
+  branch: {fileID: 1849706319861444, guid: 3740248b9ae2bb243ae094572a706662, type: 2}
+  image: {fileID: 1334545242943880, guid: 35c80833e53f9a943a9be267a60a5cb8, type: 2}
+  Text_3d: {fileID: 1546350346772492, guid: 74692f781d4b32d4088467c613c2490e, type: 2}
+  text: 
+  Panelpos: {x: 0, y: 0}
+  offset: 60
+  layerManager: {fileID: 114309883602136358, guid: d81b2a822e6608b40aa17c6a8be7f47d,
+    type: 2}

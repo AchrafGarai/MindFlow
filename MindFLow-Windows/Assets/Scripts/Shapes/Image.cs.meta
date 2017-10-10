@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 73af7e9c4b4afd3498ff01190f79d848
+timeCreated: 1493994389
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prec_layer: {fileID: 1940500840256706, guid: 5e30988f94db4ef4692db683c89fecf2,
+      type: 2}
+  - layer: {fileID: 1940500840256706, guid: 5e30988f94db4ef4692db683c89fecf2, type: 2}
+  - layerManager: {fileID: 114309883602136358, guid: d81b2a822e6608b40aa17c6a8be7f47d,
+      type: 2}
+  - Envi_Manager: {fileID: 114011334608897430, guid: 44547985ff4188346baf72fc68bdd518,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

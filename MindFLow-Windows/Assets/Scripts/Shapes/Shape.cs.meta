@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abd177f16deecd44c8899b5bd1580574
+timeCreated: 1492800392
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prec_layer: {fileID: 1940500840256706, guid: 5e30988f94db4ef4692db683c89fecf2,
+      type: 2}
+  - next_layer: {fileID: 1940500840256706, guid: 5e30988f94db4ef4692db683c89fecf2,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
